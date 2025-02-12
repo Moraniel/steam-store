@@ -1,0 +1,46 @@
+
+.steam-bar__content-holder{
+    padding: .5rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10.5rem;
+    display: flex;
+    height: 100%;
+
+    
+}
+.steam-bar__content-holder__configs>a{
+    text-decoration: none;
+    color: gray;
+
+}
+.steam-bar__content-holder__download{
+    background-color: #6C9018;
+    color: white;
+    
+    height: 25px;
+    width: 135px;
+    margin-right: 1rem;
+    
+    text-decoration: none;
+    font-size: small;
+    
+    display: flex;
+    
+
+}
+.steam-bar__content-holder__download>i{
+    display: flex;
+    justify-content: center;
+    margin-bottom: .15rem;
+    
+}
+.steam-bar__content-holder__download>p{
+    margin-top: .25rem;
+    width: 80%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
