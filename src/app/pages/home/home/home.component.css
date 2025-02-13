@@ -1,0 +1,17 @@
+app-steam-search-bar{
+    position: absolute;
+}
+.home__container > img{
+    display: flex;
+    position: relative;
+    width: 100%;
+    
+}
+.test{
+    background-color: #1B2839;
+    position: absolute;
+    z-index: 9;
+    width: 100%;
+    height: 50%;
+    bottom: -54%;
+}
