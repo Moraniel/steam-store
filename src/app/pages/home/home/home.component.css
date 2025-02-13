@@ -1,11 +1,11 @@
 app-steam-search-bar{
     position: absolute;
 }
-.home__container > img{
+.home__container a> img{
     display: flex;
     position: relative;
-    width: 100%;
     
+    max-width: 1863px; 
 }
 .test{
     background-color: #1B2839;
