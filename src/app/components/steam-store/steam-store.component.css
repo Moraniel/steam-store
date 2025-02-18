@@ -1,0 +1,11 @@
+.steam-store__container{
+    background-color: #1B2839;
+    position: absolute;
+    z-index: 9;
+    width: 100%;
+    height: 50%;
+    bottom: -54%;
+}
+.steam-store__container > h2{
+    color: #fff;
+}
