@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    color: #73899A;
+    font-size: 14px;
+}
+a:hover{
+    text-decoration: none;
+    color: #57C0F4;
+    font-size: medium;
+}
+h2{
+    color: #536F86;
+    font-size: larger;
+}
+.section__container{
+    padding-top: 30px;
+    font-weight: bold;
+}

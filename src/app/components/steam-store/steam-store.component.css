@@ -5,7 +5,18 @@
     width: 100%;
     height: 50%;
     bottom: -54%;
+    display: flex;
+    flex-direction: column;
 }
-.steam-store__container > h2{
-    color: #fff;
+
+
+
+
+.glutter{
+    position: absolute;
+    width: 12%;
+    height: 450px;
+    margin: 30px;  
+
+    left: 9%;
 }
