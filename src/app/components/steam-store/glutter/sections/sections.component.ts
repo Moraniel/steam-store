@@ -12,5 +12,4 @@ export class SectionsComponent {
   
   @Input() linkList: { title: string; url: string }[] = [];
   
-  
 }

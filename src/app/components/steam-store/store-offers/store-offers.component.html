@@ -1,0 +1,37 @@
+<div class="store_offers__container">
+    
+    <p-carousel [value]="games" [numVisible]="1" [numScroll]="1" [circular]="true" >
+        
+        <ng-template let-game_data #item>
+            <div class="store_offers__left">
+                
+                <div class="big_card" >
+                    <a>
+                        <img src = "{{game_data.images.cover}}">
+                        <div class="big_card__info">
+
+                            <p>COISA</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="big_card" >
+                    <a>
+                        <img src = "{{game_data.images.cover}}">
+                        <div class="big_card__info">
+
+                            <p>COISA</p>
+                        </div>
+                    </a>
+                </div>
+                
+            </div>
+            <div class="store_offers__right"></div>
+
+        </ng-template>
+        
+    </p-carousel>
+    
+</div>
+
+   
+
